@@ -1,1 +1,1 @@
-"reappraisal_atricles" 
+"reapraissal_articles" 
